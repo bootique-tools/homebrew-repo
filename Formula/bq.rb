@@ -1,8 +1,8 @@
 class Bq < Formula
   desc "Bootique CLI tools"
   homepage "https://bootique.io"
-  url "https://bintray.com/bootique/bq/download_file?file_path=bq-0.9.zip"
-  sha256 "ce02286302609ced8794219e5810b33b1f030a6202dcdad27bcc39e871fdf56c"
+  url "https://bintray.com/bootique/bq/download_file?file_path=bq-0.91.zip"
+  sha256 "3cc483c3dc3f6be28b27927c807a532a2c89fc7fb87b2375671126f55414db9b"
 
   bottle :unneeded
 
