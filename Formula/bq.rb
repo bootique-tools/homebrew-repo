@@ -1,8 +1,8 @@
 class Bq < Formula
   desc "Bootique CLI tools"
   homepage "https://bootique.io"
-  url "https://github.com/bootique/bootique-tool/releases/download/v0.100/bq-0.100.macos.zip"
-  sha256 "e7917f05abf9155edd0b2353230c764d8fc9b752900666091554e9de1582fe13"
+  url "https://github.com/bootique/bootique-tool/releases/download/v0.101/bq-0.101.macos.zip"
+  sha256 "a3e7c0d5d3dbb678701e6bedd94de868ad5f603a0c98bda47fa30487a7744e1a"
 
   bottle :unneeded
 
